@@ -1,0 +1,4 @@
+Sitemap: http://linuxkhan.ir/sitemapindex.xml
+
+User-Agent: *
+Host: linuxkhan.ir
